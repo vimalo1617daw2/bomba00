@@ -9,5 +9,8 @@ int main() {
 		usleep(1000000);
 	}
 	printf("BOOOUUUUMMMMM\n");
+        printf("PATABOOOUUUUMMMMM\n");
+printf("CAXIPUUUUMMMMM\n");
+
 	return(0);
 }
